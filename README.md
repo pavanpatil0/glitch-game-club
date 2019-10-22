@@ -29,6 +29,9 @@ Can you help us in one of the following ways to get involved?
 
 
 Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on all of the above.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on all of the above.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on all of the above.
+
 
 ## Communication and Publication Channels 
 
